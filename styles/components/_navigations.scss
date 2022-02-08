@@ -68,6 +68,8 @@
   }
   &__text {
     animation: logoLeftAnim 15s cubic-bezier(1, 0, 0, 1) infinite;
+    width: 120px;
+    height: 40px;
     @media only screen and (max-width: 40em) {
       // display: none;
     }
