@@ -1,3 +1,1 @@
-# Adeola Adeoti
-
-Second version of my portfolio
+This is a website that I've forked and turned into my own.
