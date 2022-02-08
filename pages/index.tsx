@@ -287,7 +287,7 @@ const index: React.FC<indexProps> = ({}) => {
                 👾 GH
               </a>
               <a
-                href="https://twitter.com/GuerrillaReneg1"
+                href="https://twitter.com/Sebasti27159933"
                 rel="noopener"
                 target="_blank"
               >
@@ -338,7 +338,7 @@ const index: React.FC<indexProps> = ({}) => {
               <span>Yeah, I work hard too </span> <small>💼</small>
             </h1>
             <p className="paragraph">
-              These are a few projects that I've worked on to prove my skills:
+              These are a few projects that I've worked on:
             </p>
 
             <div className="project-card">
@@ -380,7 +380,7 @@ const index: React.FC<indexProps> = ({}) => {
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/SebastianDevelops"
+                    href="https://github.com/SebastianDevelops/Netflix-Clone"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -426,7 +426,7 @@ const index: React.FC<indexProps> = ({}) => {
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/SebastianDevelops"
+                    href="https://github.com/SebastianDevelops/tesla-clone"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -437,15 +437,15 @@ const index: React.FC<indexProps> = ({}) => {
             <div className="project-card">
               <div className="project-card__left">
                 <h4 className="heading-4">
-                  React JS, React Router, Styled Components, CSS
+                  React JS, Context-API, React Router, CSS, Firebase, Node JS
                 </h4>
               </div>
               <div
                 className="project-card__middle"
                 data-displacement="webp/myDistorsionImage.webp"
               >
-                <img src="webp/image3.jpg" alt="Space Z" />
-                <img src="webp/Space Z.jpg" alt="Space Z logo" />
+                <img src="webp/amazon-clone.png" alt="Amamzon Clone" />
+                <img src="webp/amazon-clone.png" alt="Amazon-clone logo" />
               </div>
               <div className="project-card__right">
                 <h2
@@ -455,11 +455,11 @@ const index: React.FC<indexProps> = ({}) => {
                   data-scroll-class="heatrow-anim"
                   className="heading-2"
                 >
-                  Space
-                  <br /> Travel
+                  Amazon
+                  <br /> Clone
                 </h2>
                 <a
-                  href="https://spacetravelwebsite-spacex.netlify.app"
+                  href="https://a-clone-challenge.web.app/"
                   rel="noopener"
                   target="_blank"
                   className="project-card__link"
@@ -473,7 +473,7 @@ const index: React.FC<indexProps> = ({}) => {
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/SebastianDevelops"
+                    href="https://github.com/SebastianDevelops/amazon-clone-challenge"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>

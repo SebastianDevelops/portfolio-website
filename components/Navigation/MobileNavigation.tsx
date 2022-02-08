@@ -51,7 +51,7 @@ export const MobileNavigation = ({ variants, isOpen }: any) => (
           <h4 className="navigation-h4">MY CODEPEN</h4>
           <div className="navigation-top__left--links">
             <a
-              href="https://coepen.io/SebastianDevelops"
+              href="https://codepen.io/SebastianDevelops"
               rel="noopener"
               target="_blank"
             >
@@ -95,13 +95,13 @@ export const MobileNavigation = ({ variants, isOpen }: any) => (
             </h2>
           </a>
           <a
-            href="https://teslawebclone.netlify.app/"
+            href="https://spacetravelwebsite-spacex.netlify.app/"
             target="_blank"
             rel="noopener"
             className="navigation-bottom__projects-card"
           >
-            <img src="webp/image2.jpg" alt="pixelChef" />
-            <h2>Tesla Clone</h2>
+            <img src="webp/image3.jpg" alt="pixelChef" />
+            <h2>Space Z</h2>
           </a>
           <a
             href="https://codepen.io/SebastianDevelops/pen/BawvOoz"

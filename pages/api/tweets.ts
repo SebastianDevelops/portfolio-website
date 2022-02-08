@@ -24,19 +24,19 @@ const result: Ireply[] = [
     id: 2,
     name: "Champagne Papi",
     userName: "@loIyparty",
-    reply: "Man your portfolio is 🔥",
+    reply: "Amazon clone is 🔥",
   },
   {
     id: 3,
     name: "Ruks 🦍",
     userName: "@ruks_ahwin",
-    reply: "Really impressive man 👏",
+    reply: "Tesla Clone is impressive man 👏",
   },
   {
     id: 4,
     name: "Amarachi Iheanacho",
     userName: "@amaraIheanach0",
-    reply: "Your site is elite, lovely work.",
+    reply: "Your sites are elite, lovely work.",
   },
   {
     id: 5,
